@@ -1,0 +1,396 @@
+MEDIEVAL CITY MAP TILES
+=======================
+28/01/2023_14:41:51, UGLY ARTIST GAME STUDIO
+
+DESCRIPTION
+===========
+
+A set of re-usable asstes for [Adam Le Doux](https://twitter.com/adamledoux)'s 
+[Bitsy Game Maker](https://ledoux.itch.io/bitsy) from the UGLY ARTIST 
+STUDIO [Bitsy demo YouTube series](https://www.youtube.com/@uglyartistgamestudio).
+
+CODE
+====
+
+	TIL 13
+	00000000
+	00111100
+	01100110
+	01011010
+	01011010
+	01100110
+	00111100
+	00000000
+	NAME brunnen
+
+	TIL r
+	01110000
+	11111000
+	11111111
+	11111111
+	01111111
+	00111111
+	00111111
+	00111111
+	NAME castle_1
+	WAL true
+
+	TIL s
+	00001110
+	00011111
+	11111111
+	11111111
+	11111110
+	11111100
+	11111100
+	11111100
+	NAME castle_2
+	WAL true
+
+	TIL t
+	11111100
+	11111100
+	11111100
+	11111110
+	11111111
+	11111111
+	00011111
+	00001110
+	NAME castle_3
+	WAL true
+
+	TIL u
+	00111111
+	00111111
+	00111111
+	01111111
+	11111111
+	11111111
+	11111000
+	01110000
+	NAME castle_4
+	WAL true
+
+	TIL j
+	00000000
+	00000000
+	00000000
+	10000001
+	10000001
+	11000011
+	11111111
+	11000011
+	NAME city_door_bottom
+	WAL false
+
+	TIL l
+	11111000
+	11100000
+	01000000
+	01000000
+	01000000
+	01000000
+	11100000
+	11111000
+	NAME city_door_left
+	WAL false
+
+	TIL k
+	00011111
+	00000111
+	00000010
+	00000010
+	00000010
+	00000010
+	00000111
+	00011111
+	NAME city_door_right
+	WAL false
+
+	TIL i
+	11000011
+	11111111
+	11000011
+	10000001
+	10000001
+	00000000
+	00000000
+	00000000
+	NAME city_door_top
+	WAL false
+
+	TIL g
+	00000000
+	00000000
+	00000000
+	11111111
+	00000000
+	11111111
+	11111111
+	11111111
+	NAME city_wall_bottom
+	WAL true
+
+	TIL d
+	11101100
+	11100100
+	11100111
+	11111001
+	11111000
+	11111111
+	01111111
+	00111111
+	NAME city_wall_corner_left_bottom
+	WAL true
+
+	TIL a
+	00111111
+	01111111
+	11111111
+	11111000
+	11111001
+	11100111
+	11100100
+	11101100
+	NAME city_wall_corner_left_top
+	WAL true
+
+	TIL c
+	00110111
+	00100111
+	11100111
+	10011111
+	00011111
+	11111111
+	11111110
+	11111100
+	NAME city_wall_corner_right_bottom
+	WAL true
+
+	TIL b
+	11111100
+	11111110
+	11111111
+	00011111
+	10011111
+	11100111
+	00100111
+	00110111
+	NAME city_wall_corner_right_top
+	WAL true
+
+	TIL h
+	11101000
+	11101000
+	11101000
+	11101000
+	11101000
+	11101000
+	11101000
+	11101000
+	NAME city_wall_left
+	WAL true
+
+	TIL f
+	00010111
+	00010111
+	00010111
+	00010111
+	00010111
+	00010111
+	00010111
+	00010111
+	NAME city_wall_right
+	WAL true
+
+	TIL e
+	11111111
+	11111111
+	11111111
+	00000000
+	11111111
+	00000000
+	00000000
+	00000000
+	NAME city_wall_top
+	WAL true
+
+	TIL 10
+	00000000
+	00001010
+	00001010
+	00001010
+	00000000
+	10101110
+	10100000
+	10100000
+	NAME graves_top_2
+
+	TIL z
+	01010100
+	01010100
+	00000000
+	00001110
+	00000000
+	01110000
+	00000000
+	00000000
+	NAME graves_top
+
+	TIL m
+	00000000
+	01100000
+	01100000
+	01100000
+	00000000
+	00000000
+	00000000
+	00000000
+	NAME house_1
+	WAL true
+
+	TIL n
+	00000000
+	00001110
+	00000110
+	00000110
+	00000110
+	00000000
+	00000000
+	00000000
+	NAME house_2
+	WAL true
+
+	TIL o
+	00111110
+	01111110
+	01111110
+	01111110
+	00111110
+	00111110
+	00111110
+	00111110
+	NAME house_3
+	WAL true
+
+	TIL p
+	00111110
+	00111110
+	00000110
+	00000110
+	00000000
+	00011000
+	00000000
+	00000000
+	NAME house_4
+	WAL true
+
+	TIL q
+	00000000
+	01101110
+	01101110
+	01100000
+	01100000
+	01100000
+	01100000
+	00000000
+	NAME house_5
+	WAL true
+
+	TIL v
+	00000011
+	00111011
+	00111000
+	00111000
+	00111000
+	00111100
+	00111100
+	00111100
+	NAME house_6
+	WAL true
+
+	TIL w
+	00000011
+	00000011
+	00000000
+	01101100
+	01101100
+	01101100
+	00000000
+	00000000
+	NAME house_7
+	WAL true
+
+	TIL x
+	11110111
+	11110111
+	11110111
+	11110111
+	11000011
+	11000011
+	11000000
+	11000000
+	NAME house_8
+	WAL true
+
+	TIL 11
+	11111100
+	11001100
+	10000100
+	10110100
+	10000100
+	10110100
+	10000100
+	10110100
+	NAME stables_1
+
+	TIL 12
+	10000100
+	10110100
+	10000100
+	10110100
+	10000100
+	10110100
+	11001100
+	11111100
+	NAME stables_2
+
+	TIL y
+	01100000
+	11110000
+	11110000
+	01100000
+	00000110
+	00001111
+	00001111
+	00000110
+	NAME trees_top
+
+UGLY LICENSE 2023
+================= 
+
+Free version
+------------
+
+* You can only use these assets in non-commercial projects.
+* You can only use the unmodified assets.
+* You can not redistribute or resale the assets, even if modified.
+
+Paid version
+------------
+
+* You can use these assets in commercial projects.
+* You can modify the assets.
+* You can not redistribute or resale  the assets, even if modified.
+
+Credit is appreciated but not required.
+
+CONTACT
+=======
+
+* UGLY ARTIST GAME STUDIO
+* Robert J. Tomsons, [Email](robertjtomsons@icloud.com)
+* [itch.io](https://ugly-artist-studio.itch.io) 
+* [youtube.com](https://www.youtube.com/@uglyartistgamestudio)
+* [redbubble.com](https://www.redbubble.com/people/uglyartistmerch/)
+* [github.com](https://github.com/uglyartistgamestudio)

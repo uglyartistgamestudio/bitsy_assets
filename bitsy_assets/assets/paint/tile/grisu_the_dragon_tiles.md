@@ -1,0 +1,436 @@
+GRISU THE DRAGON TILES
+======================
+28/01/2023_14:38:00, UGLY ARTIST GAME STUDIO
+
+DESCRIPTION
+===========
+
+A set of re-usable asstes for [Adam Le Doux](https://twitter.com/adamledoux)'s 
+[Bitsy Game Maker](https://ledoux.itch.io/bitsy) from the UGLY ARTIST 
+STUDIO [Bitsy demo YouTube series](https://www.youtube.com/@uglyartistgamestudio).
+
+CODE
+====
+
+	TIL u
+	00111111
+	00011111
+	00011111
+	00011111
+	00011111
+	00111111
+	01111111
+	01111111
+	NAME dragons_body_1
+	WAL true
+
+	TIL 11
+	11111111
+	11110001
+	10001111
+	00010001
+	11000011
+	11111111
+	11111111
+	11111111
+	NAME dragons_eye
+	WAL true
+
+	TIL 12
+	00000011
+	00000011
+	00000111
+	00000111
+	00000111
+	00001111
+	00011111
+	00111111
+	NAME dragons_face_1
+	WAL true
+
+	TIL n
+	11111110
+	11111110
+	11111110
+	11111100
+	11111100
+	11111100
+	11111000
+	11110000
+	NAME dragons_feet_1
+	WAL true
+
+	TIL p
+	00111111
+	01111111
+	11011111
+	10001111
+	00111111
+	01100111
+	01011111
+	11111111
+	NAME dragons_feet_2
+	WAL true
+
+	TIL q
+	00001111
+	00111111
+	01111111
+	11111111
+	11011111
+	10011111
+	00111111
+	01111111
+	NAME dragons_feet_3
+	WAL true
+
+	TIL r
+	00000001
+	00000001
+	00000001
+	00000011
+	00000011
+	00000111
+	00001111
+	01111111
+	NAME dragons_feet_4
+	WAL true
+
+	TIL 16
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00011000
+	11111111
+	NAME dragons_head_1
+	WAL true
+
+	TIL 13
+	00000110
+	00001100
+	00001100
+	00001100
+	00011100
+	00111100
+	00111100
+	00111100
+	NAME dragons_horns_1
+	WAL true
+
+	TIL 14
+	00101100
+	00101100
+	00101100
+	00101100
+	00101100
+	00101100
+	01101110
+	11110111
+	NAME dragons_horns_2
+	WAL true
+
+	TIL v
+	11111111
+	11100111
+	11000011
+	00000011
+	00000111
+	00000111
+	00001111
+	00111111
+	NAME dragons_mouth_1
+	WAL true
+
+	TIL 17
+	10000000
+	10000000
+	11000000
+	11100000
+	11100000
+	11110000
+	11111000
+	11111100
+	NAME dragons_neck_1
+	WAL true
+
+	TIL 18
+	11111100
+	11111100
+	11111100
+	11111110
+	11111110
+	11111111
+	11111111
+	11111111
+	NAME dragons_neck_2
+	WAL true
+
+	00000000
+	00000000
+	00000000
+	00000000
+	00000111
+	00001111
+	00111111
+	01111111
+	NAME dragons_nose_1
+	WAL true
+
+	TIL z
+	00000000
+	00000000
+	00000000
+	00000001
+	11000011
+	11100011
+	11111111
+	11111111
+	NAME dragons_nose_2
+	WAL true
+
+	TIL 10
+	00111111
+	01111111
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	NAME dragons_nose_3
+	WAL true
+
+	TIL w
+	01111111
+	11100011
+	11100011
+	11100111
+	01111111
+	01111111
+	01111111
+	01111111
+	NAME dragons_nose_left
+	WAL true
+
+	TIL x
+	11111111
+	11111111
+	11100011
+	11100111
+	11100111
+	11111111
+	11111111
+	11111111
+	NAME dragons_nose_right
+	WAL true
+
+	TIL 15
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00000001
+	NAME dragons_pixel_1
+	WAL true
+
+	TIL o
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	11111111
+	NAME dragons_skin_1
+	WAL true
+
+	TIL 19
+	10000000
+	11000000
+	11100000
+	11000000
+	10000000
+	11000000
+	11100000
+	11000000
+	NAME dragons_spikes_1
+	WAL true
+
+	TIL d
+	00000000
+	01100000
+	00110000
+	00111100
+	00011111
+	00001111
+	00001111
+	00000111
+	NAME dragons_tail_1
+
+	TIL e
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	11000000
+	11110000
+	11111000
+	NAME dragons_tail_2
+	WAL true
+
+	TIL f
+	00000011
+	00000001
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	00000000
+	NAME dragons_tail_3
+	WAL true
+
+	TIL g
+	11111100
+	11111110
+	11111111
+	11111111
+	01111111
+	00111111
+	00111111
+	00011111
+	NAME dragons_tail_4
+	WAL true
+
+	TIL g
+	11111100
+	11111110
+	11111111
+	11111111
+	01111111
+	00111111
+	00111111
+	00011111
+	NAME dragons_tail_4
+	WAL true
+
+	TIL i
+	11111000
+	11111100
+	11111100
+	11111110
+	11111110
+	11111110
+	11111110
+	11111110
+	NAME dragons_tail_6
+	WAL true
+
+	TIL j
+	00111111
+	00011111
+	00001111
+	00001111
+	00000111
+	00001111
+	00011111
+	00001111
+	NAME dragons_tail_8
+	WAL true
+
+	TIL k
+	11111110
+	11111110
+	11111110
+	11111110
+	11111110
+	11111110
+	11111110
+	11111110
+	NAME dragons_tail_9
+	WAL true
+
+	TIL l
+	00000111
+	00001111
+	00011111
+	00001111
+	00000111
+	00001111
+	00011111
+	00001111
+	NAME dragons_tail_10
+	WAL true
+
+	TIL m
+	00001111
+	00011111
+	00001111
+	00000111
+	00000111
+	00001111
+	00011111
+	00001111
+	NAME dragons_tail_11
+	WAL true
+
+	TIL s
+	01111111
+	01111111
+	01111111
+	01111111
+	01111111
+	00111011
+	00111011
+	00010001
+	NAME dragons_teeth_1
+	WAL true
+
+	TIL t
+	11111111
+	11111111
+	11101111
+	11000111
+	11000111
+	10000010
+	10000000
+	00000000
+	NAME dragons_teeth_2
+	WAL true
+
+UGLY LICENSE 2023
+================= 
+
+Free version
+------------
+
+* You can only use these assets in non-commercial projects.
+* You can only use the unmodified assets.
+* You can not redistribute or resale the assets, even if modified.
+
+Paid version
+------------
+
+* You can use these assets in commercial projects.
+* You can modify the assets.
+* You can not redistribute or resale  the assets, even if modified.
+
+Credit is appreciated but not required.
+
+CONTACT
+=======
+
+* UGLY ARTIST GAME STUDIO
+* Robert J. Tomsons, [Email](robertjtomsons@icloud.com)
+* [itch.io](https://ugly-artist-studio.itch.io) 
+* [youtube.com](https://www.youtube.com/@uglyartistgamestudio)
+* [redbubble.com](https://www.redbubble.com/people/uglyartistmerch/)
+* [github.com](https://github.com/uglyartistgamestudio)
