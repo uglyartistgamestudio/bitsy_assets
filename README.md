@@ -32,8 +32,6 @@ CONTACT
 =======
 
 * UGLY ARTIST GAME STUDIO
-* Robert J. Tomsons, [Email](robertjtomsons@icloud.com)
 * [itch.io](https://ugly-artist-studio.itch.io) 
 * [youtube.com](https://www.youtube.com/@uglyartistgamestudio)
-* [redbubble.com](https://www.redbubble.com/people/uglyartistmerch/)
 * [github.com](https://github.com/uglyartistgamestudio)
